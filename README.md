@@ -20,7 +20,7 @@
   
 * 执行效果:
 * 
- ![](/Users/Alexcai/Pictures/com.tencent.ScreenCapture/QQ20150527-1@2x.png)  
+ ![](QQ20150527-1@2x.png)  
 * 使用注意:
 
  > label的值为nil或者文本长度为0,将没有任何效果.  
